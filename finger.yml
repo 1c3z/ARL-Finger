@@ -1,0 +1,1902 @@
+- name: 致远OA
+  rule: body="/seeyon/USER-DATA/IMAGES/LOGIN/login.gif"
+- name: 致远OA
+  rule: body="/seeyon/common/"
+- name: 通用企业管理软件
+  rule: body="/cwbase/web/Login.aspx"
+- name: 致远OA M3 Server
+  rule: title="M3 Server"
+- name: iDS联网数字标牌管理系统
+  rule: title="iDS联网数字标牌管理系统"
+- name: Nexus Repository Manager
+  rule: title="Nexus Repository Manager"
+- name: 网动统一通信平台(Active UC)
+  rule: title="网动统一通信平台(Active UC)"
+- name: 禅道 zentao
+  rule: title="Welcome to use zentao"
+- name: 快云服务器小助手
+  rule: title="快云服务器助手"
+- name: 禅道 zentao
+  rule: title="Welcome to zentao"
+- name: 富通天下外贸ERP
+  rule: title="用户登录_富通天下外贸ERP"
+- name: 海翔D8药业云平台
+  rule: title="登录海翔"
+- name: Kibana
+  rule: title="Kibana"
+- name: 永中在线编辑软件系统
+  rule: body="Web Office" && body="img/eio.png"
+- name: 南方数码交易一体化系统
+  rule: body="/SouthUIContent/themes/easydropdown.css"
+- name: 朗新天霁人力资源管理系统
+  rule: body="hrsoft.com.cn" && body="chkLogindiv" && body="CustStyle"
+- name: 科荣 AIO 运营管理系统
+  rule: body="style1/css/ListRange.css" && body="主账套" && body="login.jsp"
+- name: 联达动力医院综合办公管理系统
+  rule: body="login.aspx?Method=AJAX&UserName=" && body="Login_Return_XML.aspx"
+- name: 中农信达三资云平台
+  rule: body="技术支持：北京中农信达信息技术有限公司"
+- name: 电子申请客户端管理系统(EAC)
+  rule: body="script/css/gwssi.css"
+- name: 青纺联物联查询平台
+  rule: body="青纺联物联查询平台" && body="Themes/default/login.css"
+- name: 致梦科技-管家婆物联通
+  rule: body="HtmlPages/Vue/vue.js" && body="GetLoginValidate"
+- name: 广联达 Glodon
+  rule: body="/ConsoleCommon/Content/weebox.css" && body="广联达"
+- name: 任我行 CRM
+  rule: body="/Handlers/IdentifyingCode.ashx"
+- name: 广联达 广讯通
+  rule: body="gtp.standard" && body="JS/gxtAutoLogin.js"
+- name: 智能表综合管理系统
+  rule: body="js/jsCore.js" && body="Ajax_Code/Login.ashx" && body="login.css"
+- name: 科德电子智慧水务平台
+  rule: body="山东科德电子有限公司" && body="J_LoginSub"
+- name: 秦川燃气综合管理系统
+  rule: body="系统登录" && body="res/icon/key.png" && body="login"
+- name: 东胜物流软件
+  rule: body="js/dhtmlxcombo_whp.js" && body="login.aspx"
+- name: 九思 OA 协同办公系统
+  rule: body="/jsoa/login.jsp"
+- name: 润申信息企业标准化管理系统
+  rule: body="润申信息" && body="企业标准化管理系统" && body="loginForm"
+- name: 银达汇智智慧综合管理平台
+  rule: body="福州银达云创信息科技有限公司" && body="miniui/crypto/CodeManage.js"
+- name: 同鑫T9eHR信息化管理系统
+  rule: body="T9eHR-iconfont" && body="Authentication/Login"
+- name: NortekControlLineareMerge
+  rule: body="img/emerge.ico" && body="login_pw"
+- name: 致远OA M1 Server
+  rule: title="M1-Server"
+- name: 顶讯科技-易宝OA系统
+  rule: title="欢迎登录易宝OA系统"
+- name: 惠商+管理系统
+  rule: title="惠商+管理系统"
+- name: 红帆-ioffice OA
+  rule: title="iOffice.net"
+- name: 管家婆全渠道业务同步中心
+  rule: title="管家婆全渠道业务同步中心"
+- name: Spring env
+  rule: body="servletContextInitParams"
+- name: 微三云管理系统
+  rule: body="WSY_logo" && body="管理系统 MANAGEMENT SYSTEM"
+- name: 日志易
+  rule: body="auth/passwordReset" && body="yw-login-" && body="yw-login-logo"
+- name: 思迪数据池管理平台
+  rule: body="Ajax/Login" && body="思迪" && body="canvas"
+- name: 科迈 RAS
+  rule: body="科迈RAS" && body="CmxGoUrl.php"
+- name: Spring env
+  rule: body="logback"
+- name: Weblogic
+  rule: body="Error 404--Not Found"
+- name: Weblogic
+  rule: body="Error 403--"
+- name: Weblogic
+  rule: body="/console/framework/skins/wlsconsole/images/login_WebLogic_branding.png"
+- name: TWCMS
+  rule: body="href=\"/twcms/theme/default/css/global.css"
+- name: Weblogic
+  rule: body="Welcome to Weblogic Application Server"
+- name: Weblogic
+  rule: body="<i>Hypertext Transfer Protocol -- HTTP/1.1</i>"
+- name: Sangfor SSL VPN
+  rule: body="/por/login_psw.csp"
+- name: Sangfor SSL VPN
+  rule: body="loginPageSP/loginPrivacy.js"
+- name: e-mobile
+  rule: body="weaver,e-mobile"
+- name: ecology
+  rule: header="ecology_JSessionid"
+- name: 天融信VPN设备
+  rule: header="topsecsvportalname"
+- name: PbootCMS
+  rule: header="PbootSystem"
+- name: 启明某VPN设备
+  rule: body="cover_admin.css" && body="SSLVPN LOGIN"
+- name: 天玥运维安全网关
+  rule: body="css/fw/full.css" && body="js/p/login.js" && body="login"
+- name: TP-LINK 产品
+  rule: header="TP-LINK"
+- name: Influxdb
+  rule: header="X-Influxdb"
+- name: 微宏 OA
+  rule: body="wh/servlet/MainServer"
+- name: Shiro
+  rule: header="rememberMe="
+- name: Dreamer CMS-Shiro
+  rule: header="dreamer-"
+- name: Dreamer CMS
+  rule: icon_hash="-748565678"
+- name: 慧星自来水营业管理信息系统
+  rule: icon_hash="1704826498"
+- name: Bonobo Git Server
+  rule: icon_hash="-219625874"
+- name: 晶奇科技救助管理系统
+  rule: icon_hash="-1185226132"
+- name: 用友BIP 数据应用服务
+  rule: icon_hash="1183274548"
+- name: 流量通 流量平台
+  rule: icon_hash="325583172"
+- name: 北京朗新天霁人力资源系统
+  rule: icon_hash="1143915194"
+- name: 护卫神·主机大师
+  rule: icon_hash="1188645141"
+- name: 友加畅捷U+财会通
+  rule: icon_hash="2049187099"
+- name: 万户ezOFFICE
+  rule: icon_hash="-1827521324"
+- name: 信锐物联平台
+  rule: icon_hash="147973611"
+- name: WiseGrid慧敏应用交付网关
+  rule: icon_hash="910523681"
+- name: Dreamer CMS
+  rule: header="dreamer-cms"
+- name: Shiro
+  rule: header="=deleteMe"
+- name: 重庆佰鼎-佰鼎OA
+  rule: body="default.aspx" && body="Style/Style.css" && body="Skin2017" && body="TxtUserPwd"
+- name: PbootCMS
+  rule: header="PbootCMS"
+- name: 泛微云桥 e-Bridge
+  rule: body="wx.weaver"
+- name: 泛微 OA
+  rule: icon_hash="1578525679"
+- name: 泛微云桥 e-Bridge
+  rule: body="e-Bridge"
+- name: Swagger UI
+  rule: body="Swagger UI"
+- name: Ruijie
+  rule: body="4008 111 000"
+- name: Huawei SMC
+  rule: body="Script/SmcScript.js?version="
+- name: H3C Router
+  rule: body="/wnm/ssl/web/frame/login.html"
+- name: Cisco SSLVPN
+  rule: body="/+CSCOE+/logon.html"
+- name: 通达OA
+  rule: body="/images/tongda.ico"
+- name: 通达OA
+  rule: body="Office Anywhere"
+- name: 通达OA
+  rule: body="通达OA" && body="login"
+- name: 深信服 waf
+  rule: body="rsa.js" && body="commonFunction.js"
+- name: 深信服防火墙数据中心
+  rule: body="Redirect to..." && body="/LogInOut.php"
+- name: 深信服一体化网关 MIG
+  rule: body="cgi-bin/login.cgi" && body="/html/wz_tooltip.js"
+- name: 天融信防火墙
+  rule: body="TOPSEC" && body="image/aaa.png" && body="username"
+- name: 天融信TopAPP负载均衡系统
+  rule: body="TopAPP负载均衡系统" && body="天融信"
+- name: 网御 vpn
+  rule: body="/vpn/common/js/leadsec.js" && body="/vpn/user/common/custom/auth_home.css"
+- name: Typecho
+  rule: body="typecho" && body="usr/themes"
+- name: 401 登陆认证
+  rule: title="401 Authorization"
+- name: 唯德科创 IPEasy 知易通
+  rule: title="_IPEasy知易通"
+- name: Apache Airflow
+  rule: title="Airflow - Login"
+- name: 启明星辰天清汉马USG防火墙
+  rule: body="/cgi-bin/webui?op=get_product_model"
+- name: 蓝凌 OA
+  rule: body="sys/ui/extend/theme/default/style/icon.css" && body="sys/ui/extend/theme/default/style/profile.css"
+- name: 蓝凌 OA
+  rule: body="蓝凌软件" && body="App_Themes/Login"
+- name: 飞鱼星上网行为管理
+  rule: body="css/R1Login.css" && body="share.ti_username" && body="login_logo"
+- name: 深信服上网行为管理系统
+  rule: body="utccjfaewjb = function(str, key)"
+- name: 深信服上网行为管理系统
+  rule: body="document.write(WRFWWCSFBXMIGKRKHXFJ"
+- name: 深信服应用交付报表系统
+  rule: body="/reportCenter/index.php?cls_mode=cluster_mode_others"
+- name: 群晖 NAS
+  rule: body="Synology" && body="webman/"
+- name: 金蝶云星空
+  rule: body="HTML5/content/themes/kdcss.min.css"
+- name: 金蝶云星空
+  rule: body="/ClientBin/Kingdee.BOS.XPF.App.xap"
+- name: CoreMail
+  rule: body="coremail/common"
+- name: 启明星辰天清汉马USG防火墙
+  rule: body="天清汉马USG"
+- name: Jboss
+  rule: body="jboss.css"
+- name: Gitlab
+  rule: body="assets/gitlab_logo"
+- name: 宝塔-BT.cn
+  rule: body="入口校验失败"
+- name: 宝塔-BT.cn
+  rule: body="没有找到站点" && body="可能原因" && body="CDN产品" && body="Web服务" && body="检查端口是否正确"
+- name: 宝塔-BT.cn
+  rule: body="<title>恭喜，站点创建成功" && body="面板系统后台" && body="系统自动生成"
+- name: DouPHP
+  rule: body="Powered by DouPHP" && body="DouPHP" && body="theme"
+- name: 宝塔-BT.cn
+  rule: body="扫码登录更安全" && body="bt.cn" && body="/login"
+- name: 宝塔-BT.cn
+  rule: body="站点创建成功" && body="bt.cn"
+- name: 宝塔-BT.cn
+  rule: body="站点创建成功" && body="宝塔"
+- name: 宝塔-BT.cn
+  rule: icon_hash="-386189083"
+- name: 禅道
+  rule: body="self.location" && body="Lw=="
+- name: 禅道
+  rule: body="/theme/default/images/main/zt-logo.png"
+- name: 禅道
+  rule: header="zentaosid"
+- name: 用友软件
+  rule: body="UFIDA Software CO.LTD all rights reserved"
+- name: 用友NC
+  rule: body="logo/images/ufida_nc.png" && body="用友NC"
+- name: YONYOU NC
+  rule: body="uclient.yonyou.com" && body="UClient"
+- name: 宝塔-BT.cn
+  rule: body="宝塔Linux面板"
+- name: RabbitMQ
+  rule: body="<title>RabbitMQ Management</title>"
+- name: Zabbix
+  rule: body="zabbix" && body="Zabbix SIA"
+- name: 联软准入
+  rule: body="网络准入" && body="leagsoft" && body="redirect"
+- name: 列目录
+  rule: body="Index of /"
+- name: 列目录
+  rule: body=" - /</title>"
+- name: 浪潮服务器IPMI管理口
+  rule: body="img/inspur_logo.png" && body="Management System"
+- name: RegentApi_v2.0
+  rule: body="RegentApi_v2.0"
+- name: Tomcat默认页面
+  rule: body="/manager/status" && body="/manager/html"
+- name: slack-instance
+  rule: icon_hash="99395752"
+- name: spring-boot
+  rule: icon_hash="116323821"
+- name: Jenkins
+  rule: icon_hash="81586312"
+- name: Cnservers LLC
+  rule: icon_hash="-235701012"
+- name: Atlassian
+  rule: icon_hash="743365239"
+- name: Chainpoint
+  rule: icon_hash="2128230701"
+- name: LaCie
+  rule: icon_hash="-1277814690"
+- name: Parse
+  rule: icon_hash="246145559"
+- name: Atlassian
+  rule: icon_hash="628535358"
+- name: JIRA
+  rule: icon_hash="855273746"
+- name: Avigilon
+  rule: icon_hash="1318124267"
+- name: Atlassian – Confluence
+  rule: icon_hash="-305179312"
+- name: OpenStack
+  rule: icon_hash="786533217"
+- name: Pi Star
+  rule: icon_hash="432733105"
+- name: Atlassian
+  rule: icon_hash="705143395"
+- name: Angular IO (AngularJS)
+  rule: icon_hash="-1255347784"
+- name: XAMPP
+  rule: icon_hash="-1275226814"
+- name: React
+  rule: icon_hash="-2009722838"
+- name: Atlassian – JIRA
+  rule: icon_hash="981867722"
+- name: OpenStack
+  rule: icon_hash="-923088984"
+- name: Aplikasi
+  rule: icon_hash="494866796"
+- name: Ubiquiti Aircube
+  rule: icon_hash="1249285083"
+- name: Atlassian – Bamboo
+  rule: icon_hash="-1379982221"
+- name: Exostar – Managed Access Gateway
+  rule: icon_hash="420473080"
+- name: Atlassian – Confluence
+  rule: icon_hash="-1642532491"
+- name: Cisco Meraki
+  rule: icon_hash="163842882"
+- name: Archivematica
+  rule: icon_hash="-1378182799"
+- name: TCN
+  rule: icon_hash="-702384832"
+- name: CX
+  rule: icon_hash="-532394952"
+- name: Ace
+  rule: icon_hash="-183163807"
+- name: Atlassian – JIRA
+  rule: icon_hash="552727997"
+- name: NetData
+  rule: icon_hash="1302486561"
+- name: OpenGeo Suite
+  rule: icon_hash="-609520537"
+- name: Dgraph Ratel
+  rule: icon_hash="-1961046099"
+- name: Atlassian – JIRA
+  rule: icon_hash="-1581907337"
+- name: Material Dashboard
+  rule: icon_hash="1913538826"
+- name: Form.io
+  rule: icon_hash="1319699698"
+- name: Kubeflow
+  rule: icon_hash="-1203021870"
+- name: netdata dashboard
+  rule: icon_hash="-182423204"
+- name: CapRover
+  rule: icon_hash="988422585"
+- name: WiJungle
+  rule: icon_hash="2113497004"
+- name: Onera
+  rule: icon_hash="1234311970"
+- name: SmartPing
+  rule: icon_hash="430582574"
+- name: OpenStack
+  rule: icon_hash="1232596212"
+- name: netdata dashboard
+  rule: icon_hash="1585145626"
+- name: FRITZ!Box
+  rule: icon_hash="-219752612"
+- name: Ubiquiti – AirOS
+  rule: icon_hash="-697231354"
+- name: Fortinet – Forticlient
+  rule: icon_hash="945408572"
+- name: Outlook Web Application
+  rule: icon_hash="1768726119"
+- name: Huawei – Claro
+  rule: icon_hash="2109473187"
+- name: ASUS AiCloud
+  rule: icon_hash="552592949"
+- name: SonicWALL
+  rule: icon_hash="631108382"
+- name: Google
+  rule: icon_hash="708578229"
+- name: Dahua Storm (IP Camera)
+  rule: icon_hash="2019488876"
+- name: Huawei – ADSL/Router
+  rule: icon_hash="-1395400951"
+- name: Sophos Cyberoam (appliance)
+  rule: icon_hash="1601194732"
+- name: LANCOM Systems
+  rule: icon_hash="-325082670"
+- name: TilginAB (HomeGateway)
+  rule: icon_hash="-1346447358"
+- name: Supermicro Intelligent Management (IPMI)
+  rule: icon_hash="1410610129"
+- name: Zyxel ZyWALL
+  rule: icon_hash="-440644339"
+- name: Dell SonicWALL
+  rule: icon_hash="363324987"
+- name: Ubiquiti Login Portals
+  rule: icon_hash="-1446794564"
+- name: Sophos User Portal/VPN Portal
+  rule: icon_hash="1045696447"
+- name: Apache Tomcat
+  rule: icon_hash="-297069493"
+- name: OpenVPN
+  rule: icon_hash="396533629"
+- name: Cyberoam
+  rule: icon_hash="1462981117"
+- name: Technicolor
+  rule: icon_hash="1594377337"
+- name: Vodafone (Technicolor)
+  rule: icon_hash="165976831"
+- name: UBNT Router UI
+  rule: icon_hash="-1677255344"
+- name: Intelbras Wireless
+  rule: icon_hash="-359621743"
+- name: Kerio Connect (Webmail)
+  rule: icon_hash="-677167908"
+- name: BIG-IP
+  rule: icon_hash="878647854"
+- name: Microsoft OWA
+  rule: icon_hash="442749392"
+- name: pfSense
+  rule: icon_hash="1405460984"
+- name: iKuai Networks
+  rule: icon_hash="-271448102"
+- name: Dlink Webcam
+  rule: icon_hash="31972968"
+- name: 3CX Phone System
+  rule: icon_hash="970132176"
+- name: Bluehost
+  rule: icon_hash="-1119613926"
+- name: ZTE Corporation (Gateway/Appliance)
+  rule: icon_hash="459900502"
+- name: Ruckus Wireless
+  rule: icon_hash="-2069844696"
+- name: Bitnami
+  rule: icon_hash="-1607644090"
+- name: Juniper Device Manager
+  rule: icon_hash="2141724739"
+- name: Technicolor Gateway
+  rule: icon_hash="1835479497"
+- name: Gitlab
+  rule: icon_hash="1278323681"
+- name: NETASQ - Secure / Stormshield
+  rule: icon_hash="-1929912510"
+- name: VMware Horizon
+  rule: icon_hash="-1255992602"
+- name: VMware Horizon
+  rule: icon_hash="1895360511"
+- name: VMware Horizon
+  rule: icon_hash="-991123252"
+- name: Vmware Secure File Transfer
+  rule: icon_hash="1642701741"
+- name: SAP Netweaver
+  rule: icon_hash="-266008933"
+- name: 'SAP ID Service: Log On'
+  rule: icon_hash="-1967743928"
+- name: SAP Conversational AI
+  rule: icon_hash="1347937389"
+- name: Palo Alto Login Portal
+  rule: icon_hash="602431586"
+- name: Palo Alto Networks
+  rule: icon_hash="-318947884"
+- name: Outlook Web Application
+  rule: icon_hash="1356662359"
+- name: Webmin
+  rule: icon_hash="1453890729"
+- name: Docker
+  rule: icon_hash="-1814887000"
+- name: Docker
+  rule: icon_hash="1937209448"
+- name: Amazon
+  rule: icon_hash="-1544605732"
+- name: Amazon
+  rule: icon_hash="716989053"
+- name: phpMyAdmin
+  rule: icon_hash="-1010568750"
+- name: Zhejiang Uniview Technologies Co.
+  rule: icon_hash="-1240222446"
+- name: ISP Manager
+  rule: icon_hash="-986678507"
+- name: AXIS (network cameras)
+  rule: icon_hash="-1616143106"
+- name: Roundcube Webmail
+  rule: icon_hash="-976235259"
+- name: UniFi Video Controller (airVision)
+  rule: icon_hash="768816037"
+- name: pfSense
+  rule: icon_hash="1015545776"
+- name: Freebox OS
+  rule: icon_hash="1838417872"
+- name: Keenetic
+  rule: icon_hash="547282364"
+- name: Sierra Wireless Ace Manager (Airlink)
+  rule: icon_hash="-1571472432"
+- name: Synology DiskStation
+  rule: icon_hash="149371702"
+- name: INSTAR IP Cameras
+  rule: icon_hash="-1169314298"
+- name: Webmin
+  rule: icon_hash="-1038557304"
+- name: Octoprint (3D printer)
+  rule: icon_hash="1307375944"
+- name: Webmin
+  rule: icon_hash="1280907310"
+- name: Vesta Hosting Control Panel
+  rule: icon_hash="1954835352"
+- name: Farming Simulator Dedicated Server
+  rule: icon_hash="509789953"
+- name: Residential Gateway
+  rule: icon_hash="-1933493443"
+- name: cPanel Login
+  rule: icon_hash="1993518473"
+- name: Arris
+  rule: icon_hash="-1477563858"
+- name: PLEX Server
+  rule: icon_hash="-895890586"
+- name: Dlink Webcam
+  rule: icon_hash="-1354933624"
+- name: Deluge
+  rule: icon_hash="944969688"
+- name: Webmin
+  rule: icon_hash="479413330"
+- name: Cambium Networks
+  rule: icon_hash="-435817905"
+- name: Plesk
+  rule: icon_hash="-981606721"
+- name: Dahua Storm (IP Camera)
+  rule: icon_hash="833190513"
+- name: Parallels Plesk Panel
+  rule: icon_hash="-652508439"
+- name: Fireware Watchguard
+  rule: icon_hash="-569941107"
+- name: Shock&Innovation!! netis setup
+  rule: icon_hash="1326164945"
+- name: cacaoweb
+  rule: icon_hash="-1738184811"
+- name: Loxone (Automation)
+  rule: icon_hash="904434662"
+- name: HP Printer / Server
+  rule: icon_hash="905744673"
+- name: Netflix
+  rule: icon_hash="902521196"
+- name: Linksys Smart Wi-Fi
+  rule: icon_hash="-2063036701"
+- name: lwIP (A Lightweight TCP/IP stack)
+  rule: icon_hash="-1205024243"
+- name: Hitron Technologies
+  rule: icon_hash="607846949"
+- name: Dahua Storm (DVR)
+  rule: icon_hash="1281253102"
+- name: MOBOTIX Camera
+  rule: icon_hash="661332347"
+- name: Blue Iris (Webcam)
+  rule: icon_hash="-520888198"
+- name: Vigor Router
+  rule: icon_hash="104189364"
+- name: Alibaba Cloud (Block Page)
+  rule: icon_hash="1227052603"
+- name: DD WRT (DD-WRT milli_httpd)
+  rule: icon_hash="252728887"
+- name: Mitel Networks (MiCollab End User Portal)
+  rule: icon_hash="-1922044295"
+- name: Dlink Webcam
+  rule: icon_hash="1221759509"
+- name: Dlink Router
+  rule: icon_hash="1037387972"
+- name: PRTG Network Monitor
+  rule: icon_hash="-655683626"
+- name: Elastic (Database)
+  rule: icon_hash="1611729805"
+- name: Dlink Webcam
+  rule: icon_hash="1144925962"
+- name: Wildfly
+  rule: icon_hash="-1666561833"
+- name: Cisco Meraki Dashboard
+  rule: icon_hash="804949239"
+- name: Workday
+  rule: icon_hash="-459291760"
+- name: JustHost
+  rule: icon_hash="1734609466"
+- name: Baidu (IP error page)
+  rule: icon_hash="-1507567067"
+- name: Intelbras SA
+  rule: icon_hash="2006716043"
+- name: Yii PHP Framework (Default Favicon)
+  rule: icon_hash="-1298108480"
+- name: truVision NVR (interlogix)
+  rule: icon_hash="1782271534"
+- name: SOYAL Serial Device Server
+  rule: icon_hash="1777351344"
+- name: Redmine
+  rule: icon_hash="603314"
+- name: phpMyAdmin
+  rule: icon_hash="-476231906"
+- name: Cisco (eg:Conference Room Login Page)
+  rule: icon_hash="-646322113"
+- name: Jetty 404
+  rule: icon_hash="-629047854"
+- name: Luma Surveillance
+  rule: icon_hash="-1351901211"
+- name: Parallels Plesk Panel
+  rule: icon_hash="-519765377"
+- name: HP Printer / Server
+  rule: icon_hash="-2144363468"
+- name: Metasploit
+  rule: icon_hash="-127886975"
+- name: Metasploit
+  rule: icon_hash="1139788073"
+- name: Metasploit
+  rule: icon_hash="-1235192469"
+- name: ALIBI NVR
+  rule: icon_hash="1876585825"
+- name: Sangfor 应用交付报表系统
+  rule: icon_hash="-1810847295"
+- name: 'Websockets test page (eg: port 5900)'
+  rule: icon_hash="-291579889"
+- name: macOS Server (Apple)
+  rule: icon_hash="1629518721"
+- name: OpenRG
+  rule: icon_hash="-986816620"
+- name: Cisco Router
+  rule: icon_hash="-299287097"
+- name: Sangfor
+  rule: icon_hash="-1926484046"
+- name: HeroSpeed Digital Technology Co. (NVR/IPC/XVR)
+  rule: icon_hash="-873627015"
+- name: Nomadix Access Gateway
+  rule: icon_hash="2071993228"
+- name: Gitlab
+  rule: icon_hash="516963061"
+- name: Magento
+  rule: icon_hash="-38580010"
+- name: MK-AUTH
+  rule: icon_hash="1490343308"
+- name: Shoutcast Server
+  rule: icon_hash="-632583950"
+- name: FireEye
+  rule: icon_hash="95271369"
+- name: FireEye
+  rule: icon_hash="1476335317"
+- name: FireEye
+  rule: icon_hash="-842192932"
+- name: FireEye
+  rule: icon_hash="105083909"
+- name: FireEye
+  rule: icon_hash="240606739"
+- name: FireEye
+  rule: icon_hash="2121539357"
+- name: Adobe Campaign Classic
+  rule: icon_hash="-333791179"
+- name: XAMPP
+  rule: icon_hash="-1437701105"
+- name: Niagara Web Server
+  rule: icon_hash="-676077969"
+- name: Technicolor
+  rule: icon_hash="-2138771289"
+- name: Hitron Technologies Inc.
+  rule: icon_hash="711742418"
+- name: IBM Notes
+  rule: icon_hash="728788645"
+- name: Barracuda
+  rule: icon_hash="1436966696"
+- name: ServiceNow
+  rule: icon_hash="86919334"
+- name: Openfire Admin Console
+  rule: icon_hash="1211608009"
+- name: HP iLO
+  rule: icon_hash="2059618623"
+- name: Sunny WebBox
+  rule: icon_hash="1975413433"
+- name: ZyXEL
+  rule: icon_hash="943925975"
+- name: Huawei
+  rule: icon_hash="281559989"
+- name: Tenda Web Master
+  rule: icon_hash="-2145085239"
+- name: Prometheus Time Series Collection and Processing Server
+  rule: icon_hash="-1399433489"
+- name: wdCP 云主机面板
+  rule: icon_hash="1786752597"
+- name: Domoticz (Home Automation)
+  rule: icon_hash="90680708"
+- name: Tableau
+  rule: icon_hash="-1441956789"
+- name: openWRT Luci
+  rule: icon_hash="-675839242"
+- name: Ubiquiti – AirOS
+  rule: icon_hash="1020814938"
+- name: MDaemon Webmail
+  rule: icon_hash="-766957661"
+- name: Teltonika
+  rule: icon_hash="119741608"
+- name: Entrolink
+  rule: icon_hash="1973665246"
+- name: WindRiver-WebServer
+  rule: icon_hash="74935566"
+- name: Microhard Systems
+  rule: icon_hash="-1723752240"
+- name: Skype
+  rule: icon_hash="-1807411396"
+- name: Teltonika
+  rule: icon_hash="-1612496354"
+- name: Eltex (Router)
+  rule: icon_hash="1877797890"
+- name: bintec elmeg
+  rule: icon_hash="-375623619"
+- name: SyncThru Web Service (Printers)
+  rule: icon_hash="1483097076"
+- name: BoaServer
+  rule: icon_hash="1169183049"
+- name: Securepoint
+  rule: icon_hash="1051648103"
+- name: Moodle
+  rule: icon_hash="-438482901"
+- name: RADIX
+  rule: icon_hash="-1492966240"
+- name: CradlePoint Technology (Router)
+  rule: icon_hash="1466912879"
+- name: Drupal
+  rule: icon_hash="-167656799"
+- name: Blackboard
+  rule: icon_hash="-1593651747"
+- name: Jupyter Notebook
+  rule: icon_hash="-895963602"
+- name: HostMonster - Web hosting
+  rule: icon_hash="-972810761"
+- name: D-Link (router/network)
+  rule: icon_hash="1703788174"
+- name: Rocket Chat
+  rule: icon_hash="225632504"
+- name: mofinetwork
+  rule: icon_hash="-1702393021"
+- name: Zabbix
+  rule: icon_hash="892542951"
+- name: TOTOLINK (network)
+  rule: icon_hash="547474373"
+- name: Ossia (Provision SR) | Webcam/IP Camera
+  rule: icon_hash="-374235895"
+- name: cPanel Login
+  rule: icon_hash="1544230796"
+- name: D-Link (router/network)
+  rule: icon_hash="517158172"
+- name: Jeedom (home automation)
+  rule: icon_hash="462223993"
+- name: JBoss Application Server 7
+  rule: icon_hash="937999361"
+- name: Niagara Web Server / Tridium
+  rule: icon_hash="1991562061"
+- name: Solarwinds Serv-U FTP Server
+  rule: icon_hash="812385209"
+- name: Aruba (Virtual Controller)
+  rule: icon_hash="1142227528"
+- name: Dell
+  rule: icon_hash="-1153950306"
+- name: RemObjects SDK / Remoting SDK for .NET HTTP Server Microsoft
+  rule: icon_hash="72005642"
+- name: Zyxel ZyWALL
+  rule: icon_hash="-484708885"
+- name: VisualSVN Server
+  rule: icon_hash="706602230"
+- name: Jboss
+  rule: icon_hash="-656811182"
+- name: STARFACE VoIP Software
+  rule: icon_hash="-332324409"
+- name: Netis (network devices)
+  rule: icon_hash="-594256627"
+- name: WHM
+  rule: icon_hash="-649378830"
+- name: Tandberg
+  rule: icon_hash="97604680"
+- name: Ghost (CMS)
+  rule: icon_hash="-1015932800"
+- name: Avtech IP Surveillance (Camera)
+  rule: icon_hash="-194439630"
+- name: Liferay Portal
+  rule: icon_hash="129457226"
+- name: Parallels Plesk Panel
+  rule: icon_hash="-771764544"
+- name: Odoo
+  rule: icon_hash="-617743584"
+- name: Polycom
+  rule: icon_hash="77044418"
+- name: Cake PHP
+  rule: icon_hash="980692677"
+- name: Exacq
+  rule: icon_hash="476213314"
+- name: CheckPoint
+  rule: icon_hash="794809961"
+- name: Ubiquiti UNMS
+  rule: icon_hash="1157789622"
+- name: cPanel Login
+  rule: icon_hash="1244636413"
+- name: WorldClient for Mdaemon
+  rule: icon_hash="1985721423"
+- name: Netport Software (DSL)
+  rule: icon_hash="-1124868062"
+- name: f5 Big IP
+  rule: icon_hash="-335242539"
+- name: Mailcow
+  rule: icon_hash="2146763496"
+- name: QNAP NAS Virtualization Station
+  rule: icon_hash="-1041180225"
+- name: Netgear
+  rule: icon_hash="-1319025408"
+- name: Gogs
+  rule: icon_hash="917966895"
+- name: Trendnet IP camera
+  rule: icon_hash="512590457"
+- name: Asustor
+  rule: icon_hash="1678170702"
+- name: Dahua
+  rule: icon_hash="-1466785234"
+- name: Discuz!
+  rule: icon_hash="-505448917"
+- name: Discuz!
+  rule: body="Discuz!" && body="Comsenz" && body="cache/"
+- name: wdCP cloud host management system
+  rule: icon_hash="255892555"
+- name: Joomla
+  rule: icon_hash="1627330242"
+- name: SmarterMail
+  rule: icon_hash="-1935525788"
+- name: Seafile
+  rule: icon_hash="-12700016"
+- name: bintec elmeg
+  rule: icon_hash="1770799630"
+- name: NETGEAR ReadyNAS
+  rule: icon_hash="-137295400"
+- name: iPECS
+  rule: icon_hash="-195508437"
+- name: bet365
+  rule: icon_hash="-2116540786"
+- name: Reolink
+  rule: icon_hash="-38705358"
+- name: idera
+  rule: icon_hash="-450254253"
+- name: Proofpoint
+  rule: icon_hash="-1630354993"
+- name: Kerio Connect WebMail
+  rule: icon_hash="-1678298769"
+- name: WorldClient for Mdaemon
+  rule: icon_hash="-35107086"
+- name: Realtek
+  rule: icon_hash="2055322029"
+- name: 锐捷 Ruijie Networks
+  rule: icon_hash="-692947551"
+- name: Askey Cable Modem
+  rule: icon_hash="-1710631084"
+- name: Askey Cable Modem
+  rule: icon_hash="89321398"
+- name: JAWS Web Server (IP Camera)
+  rule: icon_hash="90066852"
+- name: JAWS Web Server (IP Camera)
+  rule: icon_hash="768231242"
+- name: Homegrown Website Hosting
+  rule: icon_hash="-421986013"
+- name: Technicolor / Thomson Speedtouch (Network / ADSL)
+  rule: icon_hash="156312019"
+- name: DVR (Korean)
+  rule: icon_hash="-560297467"
+- name: Joomla
+  rule: icon_hash="-1950415971"
+- name: TP-LINK (Network Device)
+  rule: icon_hash="1842351293"
+- name: Salesforce
+  rule: icon_hash="1433417005"
+- name: Apache Haus
+  rule: icon_hash="-632070065"
+- name: Untangle
+  rule: icon_hash="1103599349"
+- name: Shenzhen coship electronics co.
+  rule: icon_hash="224536051"
+- name: D-Link (router/network)
+  rule: icon_hash="1038500535"
+- name: D-Link (camera)
+  rule: icon_hash="-355305208"
+- name: Kibana
+  rule: icon_hash="-267431135"
+- name: Kibana
+  rule: icon_hash="-759754862"
+- name: Kibana
+  rule: icon_hash="-1200737715"
+- name: Kibana
+  rule: icon_hash="75230260"
+- name: Kibana
+  rule: icon_hash="1668183286"
+- name: Intelbras SA
+  rule: icon_hash="283740897"
+- name: Icecast Streaming Media Server
+  rule: icon_hash="1424295654"
+- name: NEC WebPro
+  rule: icon_hash="1922032523"
+- name: Vivotek (Camera)
+  rule: icon_hash="-1654229048"
+- name: Microsoft IIS
+  rule: icon_hash="-1414475558"
+- name: Univention Portal
+  rule: icon_hash="-1697334194"
+- name: Portainer (Docker Management)
+  rule: icon_hash="-1424036600"
+- name: NOS Router
+  rule: icon_hash="-831826827"
+- name: Tongda
+  rule: icon_hash="-759108386"
+- name: CrushFTP
+  rule: icon_hash="-1022206565"
+- name: Endian Firewall
+  rule: icon_hash="-1225484776"
+- name: Kerio Control Firewall
+  rule: icon_hash="-631002664"
+- name: Ferozo Panel
+  rule: icon_hash="2072198544"
+- name: Kerio Control Firewall
+  rule: icon_hash="-466504476"
+- name: Cafe24 (Korea)
+  rule: icon_hash="1251810433"
+- name: Mautic (Open Source Marketing Automation)
+  rule: icon_hash="1273982002"
+- name: NETIASPOT (Network)
+  rule: icon_hash="-978656757"
+- name: Multilaser
+  rule: icon_hash="916642917"
+- name: Canvas LMS (Learning Management)
+  rule: icon_hash="575613323"
+- name: IBM Server
+  rule: icon_hash="1726027799"
+- name: ADB Broadband S.p.A. (Network)
+  rule: icon_hash="-587741716"
+- name: ARRIS (Network)
+  rule: icon_hash="-360566773"
+- name: Huawei (Network)
+  rule: icon_hash="-884776764"
+- name: WAMPSERVER
+  rule: icon_hash="929825723"
+- name: Seagate Technology (NAS)
+  rule: icon_hash="240136437"
+- name: UPC Ceska Republica (Network)
+  rule: icon_hash="1911253822"
+- name: Flussonic (Video Streaming)
+  rule: icon_hash="-393788031"
+- name: Joomla
+  rule: icon_hash="366524387"
+- name: WAMPSERVER
+  rule: icon_hash="443944613"
+- name: Metabase
+  rule: icon_hash="1953726032"
+- name: D-Link (Network)
+  rule: icon_hash="-2031183903"
+- name: MobileIron
+  rule: icon_hash="545827989"
+- name: MobileIron
+  rule: icon_hash="967636089"
+- name: MobileIron
+  rule: icon_hash="362091310"
+- name: MobileIron
+  rule: icon_hash="2086228042"
+- name: CommuniGate
+  rule: icon_hash="-1588746893"
+- name: ZTE (Network)
+  rule: icon_hash="1427976651"
+- name: InfiNet Wireless | WANFleX (Network)
+  rule: icon_hash="1648531157"
+- name: Mersive Solstice
+  rule: icon_hash="938616453"
+- name: Université Toulouse 1 Capitole
+  rule: icon_hash="1632780968"
+- name: Digium (Switchvox)
+  rule: icon_hash="2068154487"
+- name: PowerMTA monitoring
+  rule: icon_hash="-1788112745"
+- name: SmartLAN/G
+  rule: icon_hash="-644617577"
+- name: Checkpoint (Gaia)
+  rule: icon_hash="-1822098181"
+- name: УТМ (Federal Service for Alcohol Market Regulation | Russia)
+  rule: icon_hash="-1131689409"
+- name: MailWizz
+  rule: icon_hash="2127152956"
+- name: RabbitMQ
+  rule: icon_hash="1064742722"
+- name: openmediavault (NAS)
+  rule: icon_hash="-693082538"
+- name: openWRT Luci
+  rule: icon_hash="1941381095"
+- name: Honeywell
+  rule: icon_hash="903086190"
+- name: BOMGAR Support Portal
+  rule: icon_hash="829321644"
+- name: Nuxt JS
+  rule: icon_hash="-1442789563"
+- name: RoundCube Webmail
+  rule: icon_hash="-2140379067"
+- name: D-Link (camera)
+  rule: icon_hash="-1897829998"
+- name: Netgear (Network)
+  rule: icon_hash="1047213685"
+- name: SonarQube
+  rule: icon_hash="1485257654"
+- name: Lupus Electronics XT
+  rule: icon_hash="-299324825"
+- name: Vanderbilt SPC
+  rule: icon_hash="-1162730477"
+- name: VZPP Plesk
+  rule: icon_hash="-1268095485"
+- name: Baidu
+  rule: icon_hash="1118684072"
+- name: ownCloud
+  rule: icon_hash="-1616115760"
+- name: Sentora
+  rule: icon_hash="-2054889066"
+- name: Alfresco
+  rule: icon_hash="1333537166"
+- name: Digital Keystone (DK)
+  rule: icon_hash="-373674173"
+- name: WISPR (Airlan)
+  rule: icon_hash="-106646451"
+- name: Synology VPN Plus
+  rule: icon_hash="1235070469"
+- name: Sentry
+  rule: icon_hash="2063428236"
+- name: WatchGuard
+  rule: icon_hash="15831193"
+- name: Web Client Pro
+  rule: icon_hash="-956471263"
+- name: Tecvoz
+  rule: icon_hash="-1452159623"
+- name: MDaemon Remote Administration
+  rule: icon_hash="99432374"
+- name: Paradox IP Module
+  rule: icon_hash="727253975"
+- name: DokuWiki
+  rule: icon_hash="-630493013"
+- name: Sails
+  rule: icon_hash="552597979"
+- name: FastPanel Hosting
+  rule: icon_hash="774252049"
+- name: C-Lodop
+  rule: icon_hash="-329747115"
+- name: Jamf Pro Login
+  rule: icon_hash="1262005940"
+- name: StruxureWare (Schneider Electric)
+  rule: icon_hash="979634648"
+- name: Axcient Replibit Management Server
+  rule: icon_hash="475379699"
+- name: Twonky Server (Media Streaming)
+  rule: icon_hash="-878891718"
+- name: Windows Azure
+  rule: icon_hash="-2125083197"
+- name: ISP Manager (Web Hosting Panel)
+  rule: icon_hash="-1151675028"
+- name: JupyterHub
+  rule: icon_hash="1248917303"
+- name: 'CenturyLink Modem GUI Login (eg: Technicolor)'
+  rule: icon_hash="-1908556829"
+- name: Tecvoz
+  rule: icon_hash="1059329877"
+- name: OPNsense
+  rule: icon_hash="-1148190371"
+- name: Ligowave (network)
+  rule: icon_hash="1467395679"
+- name: Rumpus
+  rule: icon_hash="-1528414776"
+- name: Spiceworks (panel)
+  rule: icon_hash="-2117390767"
+- name: TeamCity
+  rule: icon_hash="-1944119648"
+- name: INSTAR Full-HD IP-Camera
+  rule: icon_hash="-1748763891"
+- name: GPON Home Gateway
+  rule: icon_hash="251106693"
+- name: Alienvault
+  rule: icon_hash="-1779611449"
+- name: Arbor Networks
+  rule: icon_hash="-1745552996"
+- name: Accrisoft
+  rule: icon_hash="-1275148624"
+- name: Yasni
+  rule: icon_hash="-178685903"
+- name: Slack
+  rule: icon_hash="-43161126"
+- name: innovaphone
+  rule: icon_hash="671221099"
+- name: Shinobi (CCTV)
+  rule: icon_hash="-10974981"
+- name: TP-LINK (Network Device)
+  rule: icon_hash="1274078387"
+- name: Siemens OZW772
+  rule: icon_hash="-336242473"
+- name: Lantronix (Spider)
+  rule: icon_hash="882208493"
+- name: ClaimTime (Ramsell Public Health & Safety)
+  rule: icon_hash="-687783882"
+- name: Surfilter SSL VPN Portal
+  rule: icon_hash="-590892202"
+- name: Kyocera (Printer)
+  rule: icon_hash="-50306417"
+- name: Lucee!
+  rule: icon_hash="784872924"
+- name: Ricoh
+  rule: icon_hash="1135165421"
+- name: Handle Proxy
+  rule: icon_hash="926501571"
+- name: Metasploit
+  rule: icon_hash="579239725"
+- name: iomega NAS
+  rule: icon_hash="-689902428"
+- name: iomega NAS
+  rule: icon_hash="-600508822"
+- name: iomega NAS
+  rule: icon_hash="656868270"
+- name: iomega NAS
+  rule: icon_hash="-2056503929"
+- name: iomega NAS
+  rule: icon_hash="-1656695885"
+- name: iomega NAS
+  rule: icon_hash="331870709"
+- name: iomega NAS
+  rule: icon_hash="1241049726"
+- name: iomega NAS
+  rule: icon_hash="998138196"
+- name: iomega NAS
+  rule: icon_hash="322531336"
+- name: iomega NAS
+  rule: icon_hash="-401934945"
+- name: iomega NAS
+  rule: icon_hash="-613216179"
+- name: Chef Automate
+  rule: icon_hash="-276759139"
+- name: Gargoyle Router Management Utility
+  rule: icon_hash="1862132268"
+- name: KeepItSafe Management Console
+  rule: icon_hash="-1738727418"
+- name: Entronix Energy Management Platform
+  rule: icon_hash="-368490461"
+- name: OpenProject
+  rule: icon_hash="1836828108"
+- name: Unified Management Console (Polycom)
+  rule: icon_hash="-1775553655"
+- name: 'Moxapass ioLogik Remote Ethernet I/O Server '
+  rule: icon_hash="381100274"
+- name: HFS (HTTP File Server)
+  rule: icon_hash="2124459909"
+- name: HFS (HTTP File Server)
+  rule: icon_hash="731374291"
+- name: Traccar GPS tracking
+  rule: icon_hash="-335153896"
+- name: IW
+  rule: icon_hash="896412703"
+- name: Wordpress Under Construction Icon
+  rule: icon_hash="191654058"
+- name: Combivox
+  rule: icon_hash="-342262483"
+- name: NetComWireless (Network)
+  rule: icon_hash="5542029"
+- name: Elastic (Database)
+  rule: icon_hash="1552860581"
+- name: Drupal
+  rule: icon_hash="1174841451"
+- name: truVision (NVR)
+  rule: icon_hash="-1093172228"
+- name: SpamExperts
+  rule: icon_hash="-1688698891"
+- name: Sonatype Nexus Repository Manager
+  rule: icon_hash="-1546574541"
+- name: iDirect Canada (Network Management)
+  rule: icon_hash="-256828986"
+- name: OpenERP (now known as Odoo)
+  rule: icon_hash="1966198264"
+- name: PKP (OpenJournalSystems) Public Knowledge Project
+  rule: icon_hash="2099342476"
+- name: LiquidFiles
+  rule: icon_hash="541087742"
+- name: ZyXEL (Network)
+  rule: icon_hash="-882760066"
+- name: Universal Devices (UD)
+  rule: icon_hash="16202868"
+- name: Huawei (Network)
+  rule: icon_hash="987967490"
+- name: Gitea
+  rule: icon_hash="1969970750"
+- name: TC-Group
+  rule: icon_hash="-1734573358"
+- name: Deluge Web UI
+  rule: icon_hash="-1589842876"
+- name: AMH 云主机面板
+  rule: icon_hash="1822002133"
+- name: OTRS (Open Ticket Request System)
+  rule: icon_hash="-2006308185"
+- name: Bosch Security Systems (Camera)
+  rule: icon_hash="-1702769256"
+- name: Node-RED
+  rule: icon_hash="321591353"
+- name: motionEye (camera)
+  rule: icon_hash="-923693877"
+- name: Saia Burgess Controls – PCD
+  rule: icon_hash="-1547576879"
+- name: Arcadyan o2 box (Network)
+  rule: icon_hash="1479202414"
+- name: D-Link (Network)
+  rule: icon_hash="1081719753"
+- name: Abilis (Network/Automation)
+  rule: icon_hash="-166151761"
+- name: Ghost (CMS)
+  rule: icon_hash="-1231681737"
+- name: Airwatch
+  rule: icon_hash="321909464"
+- name: Airwatch
+  rule: icon_hash="-1153873472"
+- name: Airwatch
+  rule: icon_hash="1095915848"
+- name: Airwatch
+  rule: icon_hash="788771792"
+- name: Airwatch
+  rule: icon_hash="-1863663974"
+- name: KeyHelp (Keyweb AG)
+  rule: icon_hash="-1267819858"
+- name: KeyHelp (Keyweb AG)
+  rule: icon_hash="726817668"
+- name: GLPI
+  rule: icon_hash="-1474875778"
+- name: CradlePoint
+  rule: icon_hash="-1457536113"
+- name: MyASP
+  rule: icon_hash="-736276076"
+- name: Intelbras SA
+  rule: icon_hash="-1343070146"
+- name: Lenel
+  rule: icon_hash="538585915"
+- name: OkoFEN Pellematic
+  rule: icon_hash="-625364318"
+- name: SimpleHelp (Remote Support)
+  rule: icon_hash="1117165781"
+- name: GraphQL
+  rule: icon_hash="-1067420240"
+- name: DNN (CMS)
+  rule: icon_hash="-1465479343"
+- name: Apple
+  rule: icon_hash="1232159009"
+- name: Apple
+  rule: icon_hash="1382324298"
+- name: Apple
+  rule: icon_hash="-1498185948"
+- name: ISPConfig
+  rule: icon_hash="483383992"
+- name: Microsoft Outlook
+  rule: icon_hash="-1249852061"
+- name: Hikvision IP Camera
+  rule: icon_hash="999357577"
+- name: IP Camera
+  rule: icon_hash="492290497"
+- name: AfterLogicWebMail系统
+  rule: icon_hash="-194791768"
+- name: B2Bbuilder
+  rule: icon_hash="492941040"
+- name: 深信服下一代防火墙管理系统
+  rule: icon_hash="123821839"
+- name: 深信服WEB防篡改管理系统
+  rule: body="WEB防篡改" && body="cgi-bin/tamper_admin.cgi"
+- name: YApi 可视化接口管理平台
+  rule: body="YApi" && body="id=\"yapi\"" && body="prd" && body="可视化接口管理平台"
+- name: JumpServer 堡垒机
+  rule: icon_hash="-1162630024"
+- name: WeiPHP
+  rule: body="weiphp.css" && body="weiphp" && body="Public/static"
+- name: Nagios XI
+  rule: body="Nagios XI" && body="nagiosxi" && body="Nagios"
+- name: ShowDoc
+  rule: icon_hash="1969934080"
+- name: 群晖 NAS
+  rule: body="DiskStation" && body="webman/modules" && body="NAS"
+- name: 协达OA
+  rule: icon_hash="-1850889691"
+- name: 山石网科 防火墙
+  rule: body="Hillstone" && body="licenseAggrement" && body="GLOBAL_CONFIG.js"
+- name: 360天堤新一代智慧防火墙
+  rule: body="360天堤" && body="360" && body="360防火墙"
+- name: 360网神防火墙系统
+  rule: body="resources/image/logo_header.png" && body="360" && body="网神防火墙系统"
+- name: 网神SecGate 3600防火墙
+  rule: body="网神SecGate" && body="3600防火墙" && body="css/lsec/login.css"
+- name: 蓝盾防火墙
+  rule: body="蓝盾" && body="Bluedon" && body="default/js/act/login.js"
+- name: LanProxy
+  rule: body="LanProxy" && body="password" && body="lanproxy-config"
+- name: ManageEngine ADManager Plus
+  rule: body="ADManager" && body="Hashtable.js" && body="ManageEngine"
+- name: phpshe 商城系统
+  rule: body="Powered by phpshe" && body="include/js/global.js"
+- name: 骑士 74CMS
+  rule: body="74cms" && body="qscms.root" && body="index.php"
+- name: Apache2 Debian 默认页
+  rule: body="Apache2 Debian Default" && body="It works!" && body="Debian Logo"
+- name: Grafana
+  rule: body="Grafana" && body="login" && body="grafana-app"
+- name: Canal Admin
+  rule: body="Canal Admin" && body="js/app"
+- name: IBOS酷办公OA系统
+  rule: body="IBOS" && body="login-panel" && body="loginsubmit"
+- name: 若依(RuoYi)-管理系统
+  rule: body="ry-ui" && body="username" && body="rememberme"
+- name: 中新金盾信息安全管理系统
+  rule: body="中新金盾信息安全管理系统" && body="login" && body="useusbkey"
+- name: 中成科信 综合管理平台
+  rule: icon_hash="1632964065"
+- name: VMware vCenter
+  rule: body="VMware" && body="ID_VISDK" && body="download"
+- name: AWS S3 Bucket
+  rule: body="InvalidBucketName" && body="aliyuncs"
+- name: 网心云设备
+  rule: body="网心云设备" && body="favicon.png"
+- name: 深信服 NGAF
+  rule: body="SANGFOR" && body="NGAF" && body="login"
+- name: IBM HTTP Server
+  rule: body="IBM HTTP Server" && body="Support"
+- name: nps
+  rule: body="nps" && body="ehang" && body="login"
+- name: Webmin
+  rule: body="Webmin" && body="session_login"
+- name: 群晖 DiskStation
+  rule: body="DiskStation" && body="文件服务器" && body="modules"
+- name: 锐捷 SSLVPN
+  rule: body="SSLVPN" && body="rjweb" && body="login"
+- name: 蜂网企业流控云路由器
+  rule: body="ifw8" && body="企业级流控云路由器" && body="login"
+- name: 网御 安全网关
+  rule: body="安全系统" && body="网御星云" && body="login"
+- name: Citrix Access Gateway
+  rule: body="Citrix Access Gateway" && body="login"
+- name: 深信服安全感知平台
+  rule: body="安全感知平台" && body="login.js" && body="apps"
+- name: Apache2 Ubuntu 默认页
+  rule: body="Apache2 Ubuntu Default Page" && body="ubuntu-logo.png"
+- name: 帆软报表-FineReport
+  rule: body="ReportServer" && body="=fs"
+- name: CAS 单点登录
+  rule: body="Central Authentication Service" && body="cas/login"
+- name: 海康威视 流媒体管理服务器
+  rule: body="流媒体管理服务器" && body="MSHTML" && body="login"
+- name: noVNC 远程访问
+  rule: body="noVNC" && body="<span>no</span>" && body="host"
+- name: MessageSolution Enterprise Email Archiving (EEA)
+  rule: body="MessageSolution" && body="index.jsp"
+- name: 阿里巴巴otter manager
+  rule: body="Otter Manager" && body="channelList"
+- name: VMware vRealize Operations Manager
+  rule: body="vRealize" && body="VMware" && body="Identity Manager"
+- name: H3C-ER3200 路由器
+  rule: body="ER3200" && body="home.asp" && body="h3c.com"
+- name: 安恒云堡垒机
+  rule: body="DBAPPSecurity" && body="安恒云堡垒机"
+- name: 安恒明御安全网关
+  rule: title="明御安全网关"
+- name: Citrix 虚拟桌面
+  rule: icon_hash="-1272756243"
+- name: SeaweedFS
+  rule: icon_hash="1210969935"
+- name: FreeRDP 远程RDP工具
+  rule: icon_hash="-2052468252"
+- name: Apache ActiveMQ
+  rule: icon_hash="1766699363"
+- name: Apache-Skywalking
+  rule: icon_hash="1929532064"
+- name: Parallels Default page
+  rule: icon_hash="-1050786453"
+- name: Plesk 面板
+  rule: icon_hash="-134375033"
+- name: DzzOffice 开源办公系统
+  rule: icon_hash="-1961736892"
+- name: 网康科技网关/防火墙
+  rule: icon_hash="5471989"
+- name: ThinkPHP
+  rule: header="ThinkPHP"
+- name: SuperMap iServer Web Manager
+  rule: icon_hash="1740191553"
+- name: 协众OA
+  rule: icon_hash="-1466673461"
+- name: Jellyfin
+  rule: icon_hash="-2069226242"
+- name: 孚盟云 CRM
+  rule: icon_hash="1533124028"
+- name: 协众OA
+  rule: body="scripts/cnoa.extra.js"
+- name: FastAdmin 框架
+  rule: body="assets/img/favicon.ico" && body="bootstrap.min.css" && body="navbar-toggle"
+- name: FastAdmin 框架
+  rule: body="ajax\\/upload" && body="assets/img/favicon.ico" && body="fastadmin"
+- name: imo云办公室
+  rule: body="<a title=\"imo云办公室\""
+- name: imo云办公室
+  rule: body="高效率网上办公平台" && body="imo_setup.exe"
+- name: 永中DCS
+  rule: body="<title>永中文档在线预览DCS</title>" && body="www.yozodcs.com"
+- name: JeecgBoot
+  rule: body="JeecgBoot" && body="polyfill_"
+- name: 帆软数据决策系统
+  rule: body=">数据决策系统" && body="ReportServer?op"
+- name: 金山TimeOn云杀毒
+  rule: body="<title>TimeOn" && body="iepngfix/iepngfix_tilebg.js"
+- name: 金山终端安全
+  rule: body="终端安全系统" && body="setup/kanclient.exe" && body="iepngfix/iepngfix_tilebg.js"
+- name: YzmCMS
+  rule: body="YzmCMS" && body="yzm-common.css"
+- name: 微擎 - 公众平台自助引擎
+  rule: body="微擎 - 公众平台自助引擎" && body="www.w7.cc" && body="login"
+- name: Jspxcms
+  rule: body="- Powered by Jspxcms" && body="template/"
+- name: WordPress
+  rule: body="wp-admin" && body="wp-content/"
+- name: WordPress
+  rule: body="wp-" && body="wp-content/themes/"
+- name: 金合OA
+  rule: body="Jhsoft.Web.login" && body="PassWord.aspx"
+- name: 好视通视频会议系统
+  rule: body="用户登录" && body="resources/commonImage/favicon.ico" && body="login/createQRCode.do"
+- name: LANMP 默认页面
+  rule: body="<title>LANMP" && body="<strong>恭喜" && body="wdlinux.cn" && body="本页可删除"
+- name: CentOS 默认页面
+  rule: body="<title>Welcome to CentOS</title>" && body="img/centos-logo.png" && body="centos.org"
+- name: 百度 ueditor编辑器
+  rule: body="ueditor.all.js" && body="UE.getEditor"
+- name: 蓝凌EIS智慧协同平台
+  rule: body="/scripts/jquery.landray.common.js" && body="蓝凌软件"
+- name: phpinfo
+  rule: body="<title>phpinfo" && body="Virtual Directory Support"
+- name: Kyan 监控设备
+  rule: body="login_files" && body="platform" && body="欢迎登陆系统"
+- name: Hue 大数据框架
+  rule: body="Welcome to Hue" && body="Query. Explore." && body="login"
+- name: 亿邮邮件系统
+  rule: body="eYou" && body="q=login" && body="tpl/user"
+- name: 亿邮邮件系统
+  rule: body="eYou" && body="q=help" && body="tpl/user"
+- name: XAMPP 默认页面
+  rule: title="Welcome to XAMPP"
+- name: 网神下一代极速防火墙
+  rule: body="网神信息技术" && body="login" && body="防火墙"
+- name: 中腾OA
+  rule: body="systemAction" && body="zt_webframe" && body="login"
+- name: 新软科技-极通EWEBS
+  rule: body="N-soft" && body="ClientDownload.xgi"
+- name: Igenus邮件系统
+  rule: body="iGENUS" && body="login.php" && body="language"
+- name: 图创图书馆集群管理系统
+  rule: body="interlib/common/" && body="self.location.href"
+- name: 华天动力OA
+  rule: body="OAapp/WebObjects/OAapp.woa" && body="window.location"
+- name: JEECMS
+  rule: body="/r/cms/www" && body="shortcut icon"
+- name: Apache Hadoop
+  rule: body="static/hadoop-st.png" && body="Cluster"
+- name: TamronOS IPTV系统
+  rule: body="TamronOS" && body="loginbox" && body="tamronos.com"
+- name: 锐捷 RG-EW1200G
+  rule: body="锐捷" && body="/static/img/title.ico" && body="/js/app"
+- name: H3C Web网管
+  rule: body="webui" && body="Web网管用户登录" && body="china_logo.jpg"
+- name: H3C ER6300G2
+  rule: body="ER6300G2" && body="h3c.com" && body="login"
+- name: H3C ER3100
+  rule: body="ER3100" && body="h3c.com" && body="login"
+- name: SDCMS神盾内容管理系统
+  rule: body="sdcms" && body="login"
+- name: 锐捷 SSLVPN
+  rule: body="SSLVPN" && body="rjsslvpn_encookie" && body="login"
+- name: 天迈科技网络视频监控系统
+  rule: body="jsessionid" && body="天迈科技" && body="网络视频监控系统"
+- name: WIFISKY-7层流控路由器
+  rule: body="WIFISKY" && body="adminusr" && body="深圳市领空技术"
+- name: 后台
+  rule: title="后台"
+- name: MinIO
+  rule: title="MinIO Browser"
+- name: Consul by HashiCorp
+  rule: title="Consul"
+- name: 资产灯塔系统
+  rule: icon_hash="1708240621"
+- name: 锐捷 NBR 路由器
+  rule: icon_hash="738520282"
+- name: 二级域名分发系统
+  rule: icon_hash="-2055778861"
+- name: 致远 Analytics Cloud 分析云
+  rule: icon_hash="410106848"
+- name: 景云网络防病毒系统
+  rule: body="styles/images/logo.png" && body="login_form" && body="防病毒"
+- name: VA 虚拟应用管理平台
+  rule: body="Res/Images/logo_va.png" && body="panel_login"
+- name: 用友 NC Cloud
+  rule: body="platform/pub/welcome.do"
+- name: GitBook
+  rule: body="content=\"GitBook" && body="gitbook"
+- name: Outlook
+  rule: body="owa/auth" && body="Outlook" && body="logonDiv"
+- name: 万户网络ezEIP
+  rule: body="Powered By wanhu - www.wanhu.com.cn" && body="ezEip"
+- name: 海康威视联网网关
+  rule: body="独立运行(无平台)" && body="login_form"
+- name: 阿姆瑞特智能DNS
+  rule: body="DNS" && body="main.php?mod=member" && body="DNS_"
+- name: PHPOA 协同办公软件
+  rule: body="login.php" && body="提示信息" && body="showMsg"
+- name: 明致 OA
+  rule: icon_hash="1591287747"
+- name: JBoss EAP
+  rule: body="title>EAP" && body="eap.css" && body="JBoss"
+- name: 若依
+  rule: body="ruoyi" && body="若依" && body="login"
+- name: 万户 OA
+  rule: body="defaultroot" && body="Logon!logon.action" && body="domainAccount"
+- name: 全息AI弱电网络综合运维平台
+  rule: body="全息AI" && body="g_is_hk" && body="login"
+- name: 天融信产品
+  rule: body="<TITLE>Web User Login" && body="loginCheck"
+- name: 天融信VPN
+  rule: header="topsecsvportalstyle"
+- name: 天融信WEB应用安全防护系统
+  rule: body="module=login" && body="topsec" && body="login"
+- name: 天融信 Reporter
+  rule: body="Login @ Reporter" && body="topsec" && body="login"
+- name: 易瑞授权访问系统
+  rule: title="易瑞授权访问系统"
+- name: E-Tiller
+  rule: body="北京勤云" && body="reader/view_abstract.aspx"
+- name: FangMail
+  rule: body="fangmail/default/css/em_css.css" && body="fangmail/cgi/index.cgi"
+- name: Tencent-Exmail
+  rule: header="ssl_edition=mail.qq.com"
+- name: Tencent-Exmail
+  rule: body="cgi-bin/getinvestigate?flowid=" && body="cgi-bin/bizmail_portal"
+- name: Jira
+  rule: body="jira.webresources" && body="com.atlassian.plugins"
+- name: FishEye
+  rule: header="FESESSIONID="
+- name: 天玥网络安全审计系统
+  rule: body="天玥" && body="venustech" && body="func_login"
+- name: 金航网上阅卷系统
+  rule: body="金航" && body="jsyj" && body="衡水金航"
+- name: 科脉·蛙笑在线商业管理软件
+  rule: body="Kemai" && body="Login.aspx" && body="科脉"
+- name: 朗拓健康医院管理系统
+  rule: body="static/mq/yaoxun_pbm_im.js" && body="js/app."
+- name: 品德科技医学在线考试系统
+  rule: body="考试系统" && body="品德" && body="login.aspx"
+- name: SPON IP网络对讲广播系统
+  rule: body="spon_base64.js" && body="login"
+- name: NVS3000综合视频监控平台
+  rule: body="视频监控" && body="NVS3000综合" && body="login"
+- name: 银达汇智 智慧综合管理平台
+  rule: body="miniui" && body="Help ?" && body="main.aspx"
+- name: 云信通短信运营管理平台
+  rule: body="短信" && body="Simpla" && body="chklogin.aspx"
+- name: AceNet 驰崴防火墙
+  rule: body="Technology" && body="login_commit.php"
+- name: Teleport 堡垒机
+  rule: body="TELEPORT" && body="teleport.js" && body="login-account"
+- name: 天融信-上网行为管理系统
+  rule: body="images/logo3.gif" && body="dkey_activex_download.php" && body="login_commit.php"
+- name: Yii框架
+  rule: body="yii.js" && body="yii."
+- name: PHP
+  rule: header="PHP/"
+- name: WPS 部署可视化平台
+  rule: title="WPS 部署可视化平台"
+- name: phpstydy Windows
+  rule: title="phpstudy for windows"
+- name: 有WAF
+  rule: header="WAF/"
+- name: 移动云 WAF
+  rule: header="CloudWAF"
+- name: epoint政务服务系统
+  rule: body="epoint-web-zwdt"
+- name: 奥联通讯管理平台
+  rule: icon_hash="-1356973161"
+- name: 百傲瑞达
+  rule: icon_hash="-1169502834"
+- name: 明源云ERP
+  rule: icon_hash="-626335361"
+- name: 天智智慧医院综合质量监管平台
+  rule: icon_hash="1986460035"
+- name: 明源云ERP
+  rule: title="明源云ERP"
+- name: Minio Browser
+  rule: title="Minio Browser"
+- name: 管理后台登录
+  rule: title="管理员" && title="登录"
+- name: 360天擎
+  rule: title="360天擎"
+- name: 博华网龙信息安全一体机
+  rule: title="博华网龙信息安全一体机"
+- name: LNMP一键安装包默认页面
+  rule: title="LNMP一键安装包"
+- name: HDWiki
+  rule: header="hd_sid="
+- name: 深圳锐明行驶记录仪
+  rule: title="登录您的MDVR"
+- name: Drupal
+  rule: header="drupal"
+- name: Huawei user-login
+  rule: header="Huawei Auth-Http"
+- name: Prometheus Server
+  rule: title="Prometheus Time Series Collection and Processing Server"
+- name: Kubernetes
+  rule: title="Kubernetes Dashboard"
+- name: easypanel
+  rule: body="easypanel" && body="vhost" && body="login"
+- name: VMware Horizon
+  rule: body="VMware" && body="ui-page" && body="portal/favicon"
+- name: 明源云 ERP
+  rule: body="PubPlatform" && body="明源云" && body="LoginHandler"
+- name: VMware Horizon
+  rule: title="VMware Horizon"
+- name: 迪普VPN
+  rule: body="dptech_ssl" && body="sslvpn" && body="loginAPI.js"
+- name: OpenShift Web Console
+  rule: title="OpenShift Web Console"
+- name: 好视通
+  rule: body="fsmeeting" && body="loginCheck.do" && body="app.result"
+- name: 碧海云盒
+  rule: body="碧海云盒" && body="mt_login" && body="login.php"
+- name: PhpWind
+  rule: body="content=\"phpwind"
+- name: CmsEasy
+  rule: body="content=\"CmsEasy"
+- name: EmpireCMS
+  rule: title="Powered by EmpireCMS"
+- name: Emlog
+  rule: body="content=\"emlog\""
+- name: ECShop
+  rule: body="content=\"ECSHOP"
+- name: 大汉版通-Hanweb-system
+  rule: body="大汉版通" && body="大汉网络" && body="hanweb.com' style='display:none'"
+- name: ESPCMS
+  rule: title="powered by espcms"
+- name: KesionCMS
+  rule: body="ks_inc/common.js" && body="KesionCMS"
+- name: 东营金石软件
+  rule: body="aspNetHidden" && body="loginselect" && body="txtLoginName"
+- name: 皓峰防火墙
+  rule: title="皓峰防火墙系统登录"
+- name: CMSTop
+  rule: body="css/cmstop-common.css" && body="js/cmstop-common.js"
+- name: 华域Reporter
+  rule: body="reporter" && body="login" && body="action.php"
+- name: 智邦国际-企业管理软件
+  rule: body="index2.asp" && body="update/exec.asp" && body="images/full.gif"
+- name: 电信网关配置管理系统
+  rule: body="<TITLE>系统登录" && body="login.php" && body="img/login_bg3.png" && body="360.cn"
+- name: 方配在线考试系统(FPExam)
+  rule: body="exam/logo/favicon.ico" && body="fangpage"
+- name: Spring Eureka
+  rule: body="<title>Eureka</title>" && body="eureka"
+- name: 迪普 SSLVPN
+  rule: body="DPSSLVPN" && body="SSL VPN Service" && body="login"
+- name: Grafana
+  rule: body="<title>Grafana</title>"
+- name: 百卓byzoro-安全网关
+  rule: body="北京百卓" && body="PatrolFlow" && body="login.php"
+- name: ENESYS
+  rule: body="dwr/interface/WebContextUtil.js"
+- name: KVM_创梦云计算管理系统
+  rule: body="<title>KVM_创梦云计算管理系统</title>"
+- name: 任我行-管家婆分销ERP
+  rule: body="分销ERP" && body="txt_DbName" && body="DownloadDriver.asp"
+- name: 小黄豆CRM
+  rule: body="xhdcrm" && body="JS/XHD.js" && body="login.check.xhd"
+- name: Nnetgear 路由器
+  rule: header="NETGEAR"
+- name: Metabase
+  rule: title="Metabase"
+- name: 4images
+  rule: body="Powered by <b>4images" && body="4homepages"
+- name: Finecms
+  rule: body="content=\"FineCMS"
+- name: NUUO 摄像头
+  rule: title="Network Video Recorder Login"
+- name: Apache ShenYu
+  rule: body="id=\"httpPath" && body="th:text=\"${domain}"
+- name: Solar 网络管理系统
+  rule: icon_hash="-1871496583"
+- name: 畅捷CRM
+  rule: icon_hash="-1068428644"
+- name: 悟空CRM
+  rule: icon_hash="872805507"
+- name: 用友GRP-U8 新政府会计制度专版
+  rule: icon_hash="-299520369"
+- name: e-cology 运维管理平台
+  rule: icon_hash="-384583337"
+- name: 瑞友天翼－应用虚拟化系统
+  rule: body="DownLoad.XGI" && body="realor.cn" && body="dvLogin"
+- name: H3C SecPath 运维审计系统
+  rule: icon_hash="1776863739"
+- name: 信呼 OA
+  rule: icon_hash="1652488516"
+- name: MeterSphere
+  rule: icon_hash="1023469568"
+- name: H2 Database Console
+  rule: icon_hash="-525659379"
+- name: 天融信设备
+  rule: icon_hash="-2019013898"
+- name: 慧林ICP/iP备案系统
+  rule: icon_hash="-556918553"
+- name: 飞鱼星路由器/行为管理
+  rule: body="content=\"0.2;" && body="/home/login.html"
+- name: 化视私云CDN直播加速服务器
+  rule: body="img/dl.gif" && body="华视美达" && body="login.php"
+- name: 冰峰网络 iceflow
+  rule: body="Web 配置中心" && body="/images/splash.jpg"
+- name: 华夏 ERP
+  rule: body="jshERP-boot" && body="platformConfig"
+- name: 78 OA
+  rule: body="/resource/javascript/system/runtime.min.js" && body="password"
+- name: EnterCRM
+  rule: body="杭州恩软" && body="Ent.base.js"
+- name: ITC-CMS
+  rule: body="/mt_res_v3/js/common/common.js" && body="<title>CMS"
+- name: Panabit-Panalog
+  rule: body="img/logo.gif" && body="Maintain" && body="unamexx" && body="img/12.png"
+- name: 用友-畅捷通OEM
+  rule: body="GNRemote.dll" && body="Web_sc/login.gn"
+- name: 华为AR Web管理平台
+  rule: body="Huawei" && body="simple/style/default/image/login.png" && body="simple/view/ossn.html"
+- name: 铭飞 MCMS
+  rule: body="ms.js" && body="ms.http.js" && body="plugins"
+- name: 向日葵-SunLogin
+  rule: body="{\"success\":false,\"msg\":\"Verification failure\"}"
+- name: GROWATT 系统
+  rule: body="login" && body="v3/js/odm/odm.js"
+- name: 锐捷防火墙
+  rule: body="下一代防火墙" && body="锐捷网络"
+- name: 天融信应用交付系统
+  rule: body="TopApp-AD"
+- name: 慧林信息安全管理系统
+  rule: body="用户管理登录" && body="login" && body="images/zh-CN/login_03.gif"
+- name: 华为云桌面
+  rule: body="Desktop@FusionAccess" && body="/webui/"
+- name: 齐治堡垒机
+  rule: body="fp_download" && body="login.php" && body="logo-icon-ico72.png"
+- name: TurboMail 邮件系统
+  rule: body="TurboMail" && body="mailmain?type=login"
+- name: 安恒数据大脑API网关
+  rule: body="mssp-fe" && body="/static/imgs/logo.png"
+- name: 山石网科云数据库审计与防护系统
+  rule: body="#!/dbSummary" && body="/lib/colResizable/"
+- name: 青年软件OA
+  rule: body="/Content/qrlib/ligerUI/skins/"
+- name: 金山终端安全管理系统
+  rule: body="iepngfix/iepngfix_tilebg.js" && body="mysqlStat"
+- name: 多媒体信息发布系统
+  rule: header="HowFor Web"
+- name: 亿赛通(DLP)
+  rule: body="CDGServer3" && body="welcomebg.jpg"
+- name: 百卓 Smart 多业务安全网关
+  rule: body="writeCustomBgImg.jsp" && body="baseajax" && body="LoginLogo"
+- name: 中远麒麟堡垒机
+  rule: body="admin.php" && body="controller=admin_index&action=login"
+- name: 移动云&绿盟日志审计系统-log4j
+  rule: body="/pisces/login/"
+- name: Apache APISIX
+  rule: body="{\"error_msg\":\"404 Route Not Found\"}"
+- name: 网康科技·互联网控制网关
+  rule: title="网康科技·互联网控制网关"
+- name: 飞思网巡 IT运维系统
+  rule: icon_hash="1622043013"
+- name: Richmail 邮件系统
+  rule: title="RichMail"
+- name: Richmail 邮件系统
+  rule: body="0;url=/webmail/"
+- name: Richmail 邮件系统
+  rule: body="richmail.config.js" && body="login"
+- name: 字节数联云桌面系统
+  rule: icon_hash="-1142582922"
+- name: 智跃HR人力资源管理系统
+  rule: body="images/ZY.LOGO.64.png"
+- name: 启迪国信 UEM管理平台
+  rule: body="#commonTip" && body="css/icomoon" && body="login" && body="wwLogin"
+- name: 金万维异速联
+  rule: body="GNRemote.dll?GNFunction="
+- name: JieLink+智能终端操作平台
+  rule: body="JieLink<sup>+</sup>"
+- name: 宏景eHR人力资源信息管理系统
+  rule: body="人力资源信息管理系统" && body="hrlogon"
+- name: 禾匠点企来客服系统
+  rule: body="const _scriptUrl" && body="login_logo"
+- name: iXCache
+  rule: body="iXCache" && body="/login/userverify.cgi"
+- name: 爱信诺开票服务器
+  rule: body="aisino.kps.console"
+- name: 税控服务器管理系统
+  rule: body="sys/login.do" && body="resources/css/login_yzm.css"
+- name: 天擎
+  rule: body="index/logo" && body="天擎</title>"
+- name: 小鱼易连云视讯管理平台
+  rule: body="font_1957344_lqkodjqdbl.css"
+- name: 小鱼易连云视讯管理平台
+  rule: body="static_source/localcdn/webrtc/web/favicon.ico"
+- name: 厦门快普
+  rule: body="jKPM6" && body="WebResource.axd"
+- name: iDste融合系统支撑平台
+  rule: title="iDste融合系统支撑平台"
+- name: 大华安防 DSS
+  rule: body="User" && body="<meta http-equiv=\"refresh\" content=\"1;URL='/admin'\"/>"
+- name: NSFOCUS 绿盟安全设备
+  rule: header="NSFOCUS"
+- name: 迪浪云OA
+  rule: icon_hash="-179985729"
+- name: Nexus Repository Manager
+  rule: icon_hash="1323738809"
+- name: 金睛云华高级威胁检测系统
+  rule: icon_hash="1747722638"
+- name: VMware Workspace ONE Access
+  rule: icon_hash="-1250474341"
+- name: 网防G01
+  rule: icon_hash="-968234332"
+- name: Gitblit
+  rule: body="gitblt-favicon.png" && body="gitblit"
+- name: H3C ER8300G2-X
+  rule: body="H3C" && body="vld.bmp" && body="dis_login" && body="ER8300G2"
+- name: 锐捷交换机-睿易
+  rule: body="cgi-bin/luci" && body="#f47f3e"
+- name: H3C/安博通/任子行/OEM系列安全产品
+  rule: body="webui/js/jquerylib/jquery-1.7.2.min.js"
+- name: 明源云 ERP
+  rule: body="#153290" && body="明源软件"
+- name: IP-guard
+  rule: body="IP-guard" && body="sign/login"
+- name: 宁盾一体化安全认证平台
+  rule: body="am/ndkey.ico" && body="zhLanguagePng"
+- name: 东华医疗协同办公系统
+  rule: body="extcomponent/security/login.jsp" && body="login_dhc"
+- name: 安宁电子邮件系统　AnyMacro Mail
+  rule: body="anymacro" && body="passre.php"
+- name: 海康威视综合安防平台
+  rule: body="dist/jquery.js" && body="home/locationIndex.action"
+- name: 海纳CMS-HituxCMS
+  rule: body="Powered By HituxCMS" && body="ServiceCenter.js"
+- name: 酒店智慧营销IPTV系统
+  rule: body="xsiptvp" && body="IPTV"
+- name: 朗驰欣创-视频监控
+  rule: body="Installplug.exe" && body="NVSID"
+- name: 大华-智能物联综合管理平台
+  rule: body="static/qwebchannel.js" && body="moment"
+- name: 方正翔宇
+  rule: body="e5style/login1.css" && body="e5workspace/security/captcha.do"
+- name: 金蝶 EAS
+  rule: body="eassso" && body="portalClientHelper.jsp"
+- name: 极通 EWEBS 应用虚拟化
+  rule: body="NewSoft" && body="xajax05/xajax_js/xajax_core.js"
+- name: 时空智友
+  rule: body="login.jsp?login" && body="登录"
+- name: 康通电子云广播系统
+  rule: body="static/download/JSET99Setup.exe"
+- name: xxl-job
+  rule: body="/static/adminlte/dist/css/AdminLTE.min.css" && body="bower_components/PACE/pace.min.js"
+- name: 海康综合安防管理平台
+  rule: title="综合安防管理平台"
+- name: 53BK数字报刊系统
+  rule: body="/Comja/"
+- name: 慧点科技 OA 协同办公系统
+  rule: body="/dojo/smartdot/css/dojo_smartdot.css"
+- name: Teleport 堡垒机
+  rule: body="teleport.js" && body="login-type-oath" && body="bind-oath"
+- name: V2 Conference 视频会议系统
+  rule: body="window.location.href=\"/Conf/index.jsp\""
+- name: 和欣控制(Hysine) Webtalk 系统
+  rule: body="_webtalk/_cur/loginA.php" && body="WEBTALK"
+- name: 明源云MIP集成平台
+  rule: icon_hash="-834208471"
+- name: MapGIS Server Manager
+  rule: icon_hash="-252149748"
+- name: 金钟集团智能物流管理系统
+  rule: icon_hash="-364449966"
+- name: 海康威视综合安防管理平台
+  rule: icon_hash="-808437027"
+- name: 即会通企业版(LiveUC)|视频会议
+  rule: icon_hash="-637931821"
+- name: 泛微emp-移动管理平台
+  rule: icon_hash="2062026853"
+- name: 锐捷 SSL VPN
+  rule: icon_hash="-1525950034"
+- name: 华测监测预警系统
+  rule: icon_hash="-628229493"
+- name: 35企业邮箱系统
+  rule: icon_hash="1676919780"
+- name: 指挥调度平台
+  rule: icon_hash="-1971504131"
+- name: FE业务协作平台
+  rule: icon_hash="-391577146"
+- name: Elib 图书馆集群管理系统
+  rule: icon_hash="478149598"
+- name: VMware Horizon
+  rule: icon_hash="1182206475"
+- name: 银达汇智智慧综合管理平台
+  rule: icon_hash="1170487960"
+- name: 迈普多业务融合网关
+  rule: icon_hash="-1234665500"
+- name: 奇安信自动化渗透测试系统
+  rule: icon_hash="-747580443"
+- name: 红海eHR人力资源管理系统
+  rule: icon_hash="-1015496453"
+- name: MobileIron --Log4j
+  rule: 'title="MobileIron User Portal: Sign In"'
